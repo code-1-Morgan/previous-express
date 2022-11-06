@@ -1,6 +1,23 @@
 body{
-  background: red;
+  margin: 2rem;
+  text-align: center;
+  font-family: helvetica, sans-serif;
+  font-size: 62.5%;
 }
-h3{
-  margin-top: 40px;
+
+h1{
+  font-size: 3rem;
+}
+
+h2{
+  font-size: 1.5rem;
+  font-weight: lighter;
+}
+
+ul{
+  list-style: none;
+}
+
+li{
+  font-size: 1.2rem;
 }
